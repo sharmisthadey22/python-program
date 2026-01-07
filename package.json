@@ -1,26 +1,50 @@
-{
-  "name": "python-program",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sharmisthadey22/python-program.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/sharmisthadey22/python-program/issues"
-  },
-  "homepage": "https://github.com/sharmisthadey22/python-program#readme",
-  "dependencies": {
-    "express": "^5.2.1",
-    "fs": "^0.0.1-security",
-    "nodemon": "^3.1.11"
-  }
+"dependencies":{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
 }
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+}{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+} "",
+"main": "script.js";
+
+scripts": {
+  "start": "node script.js"
+  "chacha": "echo \"\u001b[36mRunning tests...\u001b[39m\" && node script.js"
+  "test": "echo \"Error: no test specified\" && exit 1"
+  ,
+  {
+  "name": "sharmistha",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
+  //"author": "sharmistha",
+  //"license": "ISC",
+  //"dependencies": {
+    //"accessibility": "^3.0.9",
+    //"chalk":"^5.3.0",
+    //"one-liner-joke":"^1.2.2"
+  //},
+  devDependencies": {
+    "nodemon": "^3.1.0"
+
+},
+  
+
