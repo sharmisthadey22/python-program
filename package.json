@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/sharmisthadey22/python-program#readme",
   "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
     "nodemon": "^3.1.11"
   }
 }
