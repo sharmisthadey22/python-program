@@ -1,6 +1,6 @@
 const express = require ('express');
 const path = require ('path');
-//const fs = require();
+const fs = require();
 const app = express ();
 
 app.use (express.json ());
@@ -22,19 +22,19 @@ app.get ("/profile/:username/:age", function (req, res) {
 });
 
 
-//app.get ('/about', function (req, res) {
-   // res.send ("about page hai ye");
-//});
+app.get ('/about', function (req, res) {
+    res.send ("about page hai ye");
+});
 
-//fs.writeFile("hey.txt ", "hey hello kaise ho", function(err) {
-    //if(err) console.error(err);
-    //else console.log("done");
-//});
+fs.writeFile("hey.txt ", "hey hello kaise ho", function(err) {
+    if(err) console.error(err);
+    else console.log("done");
+});
 
 
-// app.listen (3000, function () {
+ app.listen (3000, function () {
 
-//    console.log ("its running ");
-// });
+    console.log ("its running ");
+ });
 
         
