@@ -9,4 +9,5 @@ CODE                      Database
 `````````````````````````````````````````````````````````````````````````
 mongoose. connect ->       database create
 model  create     ->       collection
-CREATE code       ->       document
+CREATE code       ->       document 
+
