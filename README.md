@@ -1,0 +1,1 @@
+ This repository contains my initial steps into the world of programming. It features basic Python scripts and Node.js fundamentals that helped me build the base for my current expertise in Backend Infrastructure.
